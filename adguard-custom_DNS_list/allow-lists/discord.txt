@@ -1,0 +1,7 @@
+@@||discord.com^important
+@@||updates.discord.com^important
+@@||gateway.discord.gg^important
+@@||status.discord.com^important
+@@||cdn.discordapp.com^important
+@@||latency.discord.media^important
+@@||*.discord.media^important

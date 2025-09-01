@@ -1,0 +1,15 @@
+||wpad.home^
+
+||ipv6.msftncsi.com^
+
+! Delivery Optimization Service
+||geover-prod.do.dsp.mp.microsoft.com^
+||geo-prod.do.dsp.mp.microsoft.com^
+||geo.prod.do.dsp.mp.microsoft.com^
+||geover.prod.do.dsp.mp.microsoft.com^
+||kv*.prod.do.dsp.mp.microsoft.com^
+||cp*.prod.do.dsp.mp.microsoft.com^
+||disc*.prod.do.dsp.mp.microsoft.com^
+||array*.prod.do.dsp.mp.microsoft.com^
+||dl.delivery.mp.microsoft.com^
+||download.windowsupdate.com^

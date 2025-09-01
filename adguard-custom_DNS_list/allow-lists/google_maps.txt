@@ -1,0 +1,4 @@
+@@||maps.google.fr^$important
+@@||consent.google.fr^$important
+@@||www.google.fr^$important
+@@||*.gstatic.com^$important
