@@ -40,8 +40,7 @@ local_tmp_dir=$(mktemp -d) # Create a local safe temporary directory
 scp  "$identifier:$remote_download_path/$remote_generated_filename" "$local_tmp_dir/$remote_generated_filename"
 sudo apt-offline get "$local_tmp_dir/$remote_generated_filename" --bundle "$local_tmp_dir/$host_generated_filename"
 scp -r "$identifier:$remote_download_path" "$local_tmp_dir"
-#rm -rf "$local_tmp_dir"
-cat $local_tmp_dir
+rm -rf "$local_tmp_dir"
 
 # Go back in the remote host to apply the download file
 ssh "$identifier" "./remote-installation.sh $remote_download_path/$host_generated_filename && exit"
