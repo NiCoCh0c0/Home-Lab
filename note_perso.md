@@ -1,13 +1,13 @@
 # Acheter pour le Lab
-## Informatique
-- Support NVMe pour Raspberry Pi 5
-- Disque NVMe pour PC fixe (faire passer celui du fixe sur le rasp)
-- Routeur baremetal
-- Point d'accès Wi-Fi
-- Switch Vlan avec PoE
-- NAS
-- PC pour moteur IA
-- Flipper Zero
+## Infra informatique
+- Support NVMe pour Raspberry Pi 5 - 15 €
+- Disque NVMe pour PC fixe (faire passer celui du fixe sur le rasp) - 55€
+- Routeur baremetal (Protectli ? - Voir pas des trucs sympa en occasion) - 200/300€
+- Point d'accès Wi-Fi (Mikrotic ?) - 80€
+- Switch Vlan avec PoE in et out (Mikotik ?) - 50€
+- NAS ou Proxmox Backup Server - ??? (occasion si possible)
+- PC pour moteur IA puissant, image et gros raisonnement only (mon PC fixe ?)
+- Pack de RJ45 court - 30€
 
 ## IoT
 - Dongle Matter/Thread
