@@ -10,7 +10,7 @@
 - Pack de RJ45 court - 30€
 
 ## IoT
-- Dongle Matter/Thread - 30€
+- Dongle Matter/Thread - 30€ ou dongle PoE double antenne de chez SMLIGHT
 - Led qui s'adapte à la télé - ???
 - Detecteur de fuite d'eau - 20€
 - Qualité de l'air - 150€
@@ -32,6 +32,7 @@
 
 ## FabLab
 - Boite anti Humidité bobine imprimante
+- Sac avec pompe à vide stockage bobine
 - Peinture pour PLA (acrylique classique à priori, bombe ?)
 - Modifi3D (lissage des impressions 3D)
 - Bombe d'apret (pour peinture PLA)
@@ -41,3 +42,5 @@
 
 ## Fun
 - Equipement haptique (veste, gant, ...)
+- Sticker geek pour décorer
+- 
